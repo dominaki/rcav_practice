@@ -4,8 +4,8 @@ class CalculationsController < ApplicationController
   end
 
 
-def square_root_8
-render("square_root_8.html.erb")
+def square_root
+render("square_root.html.erb")
 end
 end
 
