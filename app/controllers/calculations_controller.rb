@@ -7,5 +7,9 @@ class CalculationsController < ApplicationController
 def square_root
 render("square_root.html.erb")
 end
+
+def payment
+render("payment.html.erb")
+end
 end
 
